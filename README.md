@@ -29,10 +29,10 @@ The repository includes screenshots of the guardrail configurations:
 - Legal advice denial  
 - PII filtering and content moderation  
 
-<img src="denial-topic-financial-investment"/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
+<img src="denial-topic-financial-investement.png"/>
+<img src="financial-investment-test.png"/>
+<img src="legal-advice-test.png"/>
+<img src="structure.png"/>
 
 
 
